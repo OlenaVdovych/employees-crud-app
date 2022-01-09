@@ -1,3 +1,7 @@
+Technologies: HTML, CSS, React.
+
+In this app you can add employeer, delete or filter employees, change employees who take the promotion.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
